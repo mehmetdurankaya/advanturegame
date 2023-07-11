@@ -1,4 +1,7 @@
-https://github.com/mehmetdurankaya/advanturegame/blob/master/src/samuraimdk.png
+
+<img align="right" alt="" width="600px" src="https://github.com/mehmetdurankaya/advanturegame/blob/master/src/samuraimdk.png" />
+
+
 ## ADVANTURE GAME (MACERA OYUNU)
 ### 1 - Oyunu bitirebilmek için savaş bölgelerindeki tüm düşmanlar temizlendikten sonra
 - bölgeye özel ödülü oyunucun envanterine eklenmelidir. 
